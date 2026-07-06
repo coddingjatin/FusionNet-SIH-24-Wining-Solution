@@ -10,16 +10,6 @@ A deep learning-based solution developed during **Smart India Hackathon 2024** u
 
 ---
 
-## 🏆 Recognition
-
-<p align="center">
-  <img src="win.jpg" width="300"/>
-  <br/>
-  <em>Team Sarva-Conquerors</em>
-</p>
-
----
-
 ## 👤 Target Users
 
 - ISRO, DRDO, and space research orgs  
@@ -54,6 +44,15 @@ We developed a **Hybrid Model with Attention Mechanisms**:
 
 ---
 
+## 🛠 Tech Stack
+
+- Python, Flask  
+- TensorFlow, PyTorch  
+- HTML/CSS for frontend  
+- RISAT & Sentinel datasets  
+
+---
+
 ## 🌐 Web Interface
 
 Includes:
@@ -73,24 +72,16 @@ Includes:
 
 ---
 
-## 👨‍💻 Team Sarva-Conquerors
+## 👨‍💻 Team Name: Sarva-Conquerors
 
-- 🧠 Krushna Thakare (Team Leader)  
-- 🧠 Sujal Lokhande
-- 🧠 Vaidehi Upankar
-- 🧠 Pratik Dhaktode  
-- 🧠 Suhani Bighane  
-- 🧠 Hussain Raja  
-- 🧑‍🏫 Jatin Vishwakarma (Team Mentor(SIH'24 Mentor))
+--- 
+## 🏆 Recognition
 
----
-
-## 🛠 Tech Stack
-
-- Python, Flask  
-- TensorFlow, PyTorch  
-- HTML/CSS for frontend  
-- RISAT & Sentinel datasets  
+<p align="center">
+  <img src="win.jpg" width="300"/>
+  <br/>
+  <em>Team Sarva-Conquerors</em>
+</p>
 
 ---
 
