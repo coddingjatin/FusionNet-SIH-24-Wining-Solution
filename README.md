@@ -73,7 +73,13 @@ Includes:
 ---
 
 ## 👨‍💻 Team Name: Sarva-Conquerors
-
+- Jatin Vishwakarma
+- Krushna Thakre
+- Vaidehi Upankar
+- Sujal Lokhande
+- Hussain Raja
+- Suhani Bighane
+- Pratik Dhaktode
 --- 
 ## 🏆 Recognition
 
